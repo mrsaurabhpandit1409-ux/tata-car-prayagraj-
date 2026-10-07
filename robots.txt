@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mrsaurabhpandit1409-ux.github.io/tata-car-prayagraj-/sitemap.xml
